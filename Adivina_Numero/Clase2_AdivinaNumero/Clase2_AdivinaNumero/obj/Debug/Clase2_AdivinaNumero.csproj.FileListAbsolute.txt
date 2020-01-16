@@ -1,0 +1,7 @@
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Adivina_Numero\Clase2_AdivinaNumero\Clase2_AdivinaNumero\bin\Debug\Clase2_AdivinaNumero.exe.config
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Adivina_Numero\Clase2_AdivinaNumero\Clase2_AdivinaNumero\bin\Debug\Clase2_AdivinaNumero.exe
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Adivina_Numero\Clase2_AdivinaNumero\Clase2_AdivinaNumero\bin\Debug\Clase2_AdivinaNumero.pdb
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Adivina_Numero\Clase2_AdivinaNumero\Clase2_AdivinaNumero\obj\Debug\Clase2_AdivinaNumero.csprojAssemblyReference.cache
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Adivina_Numero\Clase2_AdivinaNumero\Clase2_AdivinaNumero\obj\Debug\Clase2_AdivinaNumero.csproj.CoreCompileInputs.cache
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Adivina_Numero\Clase2_AdivinaNumero\Clase2_AdivinaNumero\obj\Debug\Clase2_AdivinaNumero.exe
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Adivina_Numero\Clase2_AdivinaNumero\Clase2_AdivinaNumero\obj\Debug\Clase2_AdivinaNumero.pdb

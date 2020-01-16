@@ -1,0 +1,7 @@
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Primeros_Ejercicios_C#\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\EjerciciosCSharp.exe.config
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Primeros_Ejercicios_C#\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\EjerciciosCSharp.exe
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Primeros_Ejercicios_C#\EjerciciosCSharp\EjerciciosCSharp\bin\Debug\EjerciciosCSharp.pdb
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Primeros_Ejercicios_C#\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.csprojAssemblyReference.cache
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Primeros_Ejercicios_C#\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.csproj.CoreCompileInputs.cache
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Primeros_Ejercicios_C#\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.exe
+D:\WorkSpace Unity\Aplicada2020\ISC_Aplicada_Joel\Primeros_Ejercicios_C#\EjerciciosCSharp\EjerciciosCSharp\obj\Debug\EjerciciosCSharp.pdb
