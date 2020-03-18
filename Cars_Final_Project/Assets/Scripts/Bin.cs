@@ -18,7 +18,7 @@ public class Bin : MonoBehaviour
         width = transform.localScale.y;
         speed = 5f;
 
-        //Init Sound
+        
         tickSource = GetComponent<AudioSource>();
 
     }
