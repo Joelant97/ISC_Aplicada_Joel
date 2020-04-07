@@ -11,7 +11,7 @@ public class VidasFlyScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        vida = GetComponent<Text>();
+        vida = GetComponent<Text>();//
     }
 
     // Update is called once per frame
